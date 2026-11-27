@@ -1,0 +1,5 @@
+{
+  "repository": "https://github.com/alltechdev/gplay-apk-downloader.git",
+  "commit": "2e9f783912a21c98cab64d7d52a94ae385ba658b",
+  "checkout": "vendor/gplay-apk-downloader"
+}

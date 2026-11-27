@@ -1,0 +1,3 @@
+[submodule "vendor/gplay-apk-downloader"]
+	path = vendor/gplay-apk-downloader
+	url = https://github.com/alltechdev/gplay-apk-downloader.git
